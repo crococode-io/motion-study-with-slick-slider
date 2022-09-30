@@ -1,6 +1,6 @@
 # Motion Study with Slick Slider
 
-As the original description indicates, slick is a responsive carousel jQuery plugin that supports multiple breakpoints, CSS3 transitions, touch events/swiping, etc. We'd like to show how to make quickly custom styles for a slick slider.
+As the original description indicates, slick is a responsive carousel jQuery plugin that supports multiple breakpoints, CSS3 transitions, touch events/swiping, etc. We'd like to show how to make quickly custom styles for a slick slider. 
 
 ![Motion Study with Slick Slider](https://raw.githubusercontent.com/crococode-io/images/main/motion-study-with-slick-slider.png)
 
